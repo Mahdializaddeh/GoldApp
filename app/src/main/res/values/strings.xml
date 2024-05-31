@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoldApp</string>
+    <string name="img_splash">imgSplash</string>
+    <string name="gold_price">قیمت طلا و ارز</string>
+    <string name="text2">تازه ترین اخبار ارز و طلای روز جهان</string>
+    <string name="_24_1402">سشنبه 24 تیر 1402</string>
+    <string name="ars">قیمت ارز</string>
+    <string name="gold">قیمت طلا</string>
+    <string name="img_desc">img_desc</string>
+</resources>
