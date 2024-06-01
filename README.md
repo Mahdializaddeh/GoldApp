@@ -40,7 +40,8 @@ To get started with GoldApp, follow these steps:
         Click the Run button in Android Studio.
     
 ## ScreenShots
-![image of GoldApp](./images/GoldApp.jpg)
+![image of GoldApp](./images/GoldMain.jpg)
+![image of GoldApp](./images/GodMenu.jpg)
 ## Contributing
 
 We welcome contributions to improve GoldApp! To contribute:
